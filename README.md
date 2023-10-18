@@ -1,6 +1,6 @@
 - 👋 Hi folks, I’m Kelly
 - 👀 Interested in UX/UI Design, cultural and creative sectors that boots the user experience
-- 🌱 I’m currently engage in a Bootcamp focus on Web Developement studying HTML, CSS3, Javascript, ReactjS on the framework Spring Boot 
+- 🌱 Currently engage on Web Developement HTML, CSS3 and Javascript 
 - 💞️ Open to collaborate on interface projects that transforming how we design, produce, deliver and consume media-based entertainment across the creative and cultural sectors
 - 📫 If you need a assistant or volunteer, call me on chat for a meeting :)
 
